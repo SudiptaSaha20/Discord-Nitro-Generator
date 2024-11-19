@@ -148,6 +148,6 @@ You can adjust the following parameters:
 
 ## 📜 License
 
-This project is licensed under the MIT License. Please refer to the full text of the [MIT License](https://github.com/SudiptaSaha20/Discord-Nitro-Checker/blob/main/LICENSE) for more details.
+This project is licensed under the MIT License. Please refer to the full text of the [MIT License](https://github.com/SudiptaSaha20/Discord-Nitro-Generator/blob/main/LICENSE) for more details.
 
 ---
