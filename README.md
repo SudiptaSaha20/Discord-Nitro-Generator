@@ -140,7 +140,7 @@ You can adjust the following parameters:
 ├── .git/                  # Git metadata folder
 ├── .gitattributes         # Git configuration file
 ├── LICENSE                # License file (e.g., MIT License)
-├── nitro_checker          # Python source file (the script)
+├── main                   # Python source file (the script)
 ├── README                 # Documentation in Markdown
 ```
 
